@@ -1,0 +1,19 @@
+---
+title: "key_crop_yields"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{key_crop_yields}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(cwdata1)
+```
