@@ -19,3 +19,5 @@ Suggests:
     knitr,
     ggplot2
 VignetteBuilder: knitr
+URL: https://github.com/richytang/cwdata1
+BugReports: https://github.com/richytang/cwdata1/issues
